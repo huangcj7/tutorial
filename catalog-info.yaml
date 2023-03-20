@@ -4,6 +4,7 @@ metadata:
   name: "tutorial"
   annotations:
     github.com/project-slug: huangcj7/tutorial
+    backstage.io/kubernetes-id: tutorial-demo
 spec:
   type: service
   owner: user:guest
