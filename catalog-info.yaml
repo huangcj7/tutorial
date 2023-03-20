@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "tutorial"
+  annotations:
+    github.com/project-slug: huangcj7/tutorial
 spec:
   type: service
   owner: user:guest
